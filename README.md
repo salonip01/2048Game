@@ -9,7 +9,7 @@ Some of the pages referenced were:
 [w3schools](https://www.w3schools.com/python/python_functions.asp)
 [freeCodeCamp](https://www.freecodecamp.org/news/multi-dimensional-arrays-in-python/)
 
-## Last modification date
+## Last Modified
 Code was last modified on January 15, 2025.
 
 ## Scope of Improvement
